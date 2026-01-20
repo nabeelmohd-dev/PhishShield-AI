@@ -2,9 +2,6 @@
 
 An AI-powered phishing detection system built with **TensorFlow** and **Streamlit**. This project uses a **Long Short-Term Memory (LSTM)** Recurrent Neural Network to analyze the character-level patterns of URLs and identify malicious intent.
 
-## 🚀 Live Demo
-[Insert your Streamlit Cloud Link Here after deploying]
-
 ## 📊 Performance
 - **Accuracy:** 87.12%
 - **Model Type:** RNN (LSTM)
